@@ -67,3 +67,6 @@ local.properties
 
 *.log
 *.db
+
+.idea
+*.iml
